@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Esin</h1>
+<h1 align="center">Hi 👋, I'm Esin 👩🏻‍💻</h1>
 <h3 align="center">Jr. Front-end Geliştirici</h3>
 
 - 🌱 I’m currently learning **Javascript | Figma**
