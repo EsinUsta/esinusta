@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba 👋, ben Esin</h1>
+<h1 align="center">Hi 👋, I'm Esin</h1>
 <h3 align="center">Jr. Front-end Geliştirici</h3>
 
-- 🌱 Şu anda öğreniyorum **Javascript | Figma**
+- 🌱 I’m currently learning: **Javascript | Figma**
 
-- 📫 Bana nasıl ulaşabilirsiniz **esin.usta96@gmail.com**
+- 📫 How to reach me: **esin.usta96@gmail.com**
 
-<h4 align="left">Benimle bağlantı kurun:</h4>
+<h4 align="left">With contact me:</h4>
 <p align="left">
 <a href="https ://linkedin.com/in/https://www.linkedin.com/in/esin-usta-09a830239/" target="blank">                                                                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width= "40" height="40" alt="https://www.linkedin.com/in/esin-usta-09a830239/" yükseklik="30" genişlik="40" /></a>
 </p>
